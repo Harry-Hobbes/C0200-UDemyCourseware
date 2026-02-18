@@ -1,0 +1,10 @@
+{
+    "name": "John",
+    "age": 30,
+    "isStudent": false,
+    "hobbies": ["reading", "cooking", "gaming", 1, null],
+    "spouse": {
+            "mame": "Jane",
+            "age": 28
+    }
+}
